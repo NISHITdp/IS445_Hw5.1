@@ -6,7 +6,7 @@ title: HW5 — Jekyll + Altair (UFO)
 # IS 445 — HW5
 
 **Data:** [UFO sightings (time-standardized)](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)  
-**Notebook:** (add your GitHub page-view link to `hw5_altair_export.ipynb` after pushing)
+**Notebook:** https://github.com/NISHITdp/IS445_Hw5.1/blob/main/hw5_altair_export.ipynb
 
 ## Plot A — Linked time brush → state counts
 <iframe src="charts/ufo_time_state.html" width="100%" height="460" style="border:0;"></iframe>
